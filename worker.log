@@ -1,0 +1,3 @@
+usage: api_worker.py [-h] [--num NUM] [--single SINGLE] [--verbose]
+api_worker.py: error: unrecognized arguments: --group My Group Name
+[worker] Starting: num=2, group=My Group Name
